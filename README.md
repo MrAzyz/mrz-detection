@@ -78,3 +78,6 @@ def process_image(image_path):
 
 print(process_image('passport.jpg'))
 ```
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss improvements or new features.
